@@ -1,0 +1,6 @@
+# Ignore Excel data and credentials
+*.xlsx
+*.xls
+*.csv
+*.env
+__pycache__/
